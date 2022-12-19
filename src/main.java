@@ -12,10 +12,11 @@ public class main {
 			System.out.println(n);
 		}
 		System.out.println(n);
+		System.out.println(n);
 		
 	
 	}
-	public void Saludar(String n) {
+	 void Saludar(String n) {
 		System.out.println("Saludar" + n);
 	}
 
