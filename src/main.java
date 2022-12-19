@@ -8,6 +8,9 @@ public class main {
 		int n=0;
 		n++;
 		
+		if(n % 2==0) {
+			System.out.println(n);
+		}
 		System.out.println(n);
 		
 	}
