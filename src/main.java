@@ -10,6 +10,10 @@ public class main {
 		
 		System.out.println(n);
 		
+	
+	}
+	public void Saludar(String n) {
+		System.out.println("Saludar" + n);
 	}
 
 }
