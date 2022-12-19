@@ -13,7 +13,7 @@ public class main {
 		}
 		System.out.println(n);
 		System.out.println(n);
-		
+		System.out.println(n);
 	
 	}
 	 void Saludar(String n) {
